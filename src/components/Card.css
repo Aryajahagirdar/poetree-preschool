@@ -1,0 +1,96 @@
+.program {
+  font-size: 30px;
+  margin-top: 15px;
+  font-weight: bolder;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: rgb(230, 167, 187);
+  padding: 20px;
+  margin: 25px;
+  text-align: center;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card p {
+  margin-top: 10px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: lavender;
+  border: none;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.program-card-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.desc1 {
+  color: black;
+}
+
+.desc2 {
+  color: black;
+}
+
+.full {
+  text-align: justify;
+  padding: 10px;
+  color: black;
+}
+
+.program-title {
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Pangolin', cursive;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.contact-button{
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 200;
+  background-color: rgb(220, 189, 64);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 10px;
+}
+
+.contact-button:hover{
+  background-color: yellow;
+  cursor: pointer;
+}
+

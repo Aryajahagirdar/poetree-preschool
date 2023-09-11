@@ -1,0 +1,15 @@
+.gallery-title {
+    font-family: "Pangolin", cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}

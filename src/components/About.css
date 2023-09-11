@@ -1,0 +1,213 @@
+.about-container {
+    margin: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-img {
+    min-height: 50px;
+    width: 30px;
+    flex: 1;
+    text-align: center;
+}
+
+.about-content {
+    margin-left: 60px;
+    line-height: 1.5;
+    flex: 1;
+}
+
+.about-title {
+    font-family: 'Pangolin', cursive;
+    font-size: 40px;
+    color: brown;
+    font-weight: bold;
+}
+
+.about-description {
+    margin-top: 30px;
+    width: 600px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-container-about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.about-card {
+    /*background-color: rgb(244, 195, 179);*/
+    width: 1000px;
+    height: 180px;
+    padding: 20px;
+    margin: 30px;
+    border: 8px solid brown;
+    border-radius: 40px;
+}
+
+.card-title {
+    text-align: left;
+    font-size: 30px;
+    display: flex;
+    font-family: 'Pangolin', cursive;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    color: #555;
+}
+
+.mission-img {
+    height: 40px;
+    width: 40px;
+    margin-left: 840px;
+    object-fit: contain;
+}
+
+.vision-img {
+    height: 40px;
+    width: 40px;
+    margin-left: 850px;
+    object-fit: contain;
+}
+
+.card-description li {
+    list-style-type: disc;
+    margin-bottom: 8px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.values {
+    padding: 30px;
+    margin-bottom: 10px;
+    width: 800px;
+}
+
+.title-values {
+    width: 100%;
+    text-align: center;
+}
+
+.end-description {
+    text-align: center;
+    margin-left: 320px;
+    margin-bottom: 30px;
+    margin-right: 320px;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+@media (max-width: 768px) {
+    .about-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .about-img {
+        margin: 10px 0;
+        width: auto;
+        flex: none;
+    }
+    
+    .about-content {
+        margin: 10px 0;
+        width: 100%;
+    }
+    
+    .about-title {
+        font-size: 30px;
+    }
+    
+    .about-description {
+        width: 100%;
+        font-size: 18px;
+    }
+    
+    .card-container-about {
+        margin-top: 20px;
+    }
+    
+    .about-card {
+        width: 270px;
+        height: auto;
+        margin: 20px 0;
+    }
+    
+    .card-title {
+        font-size: 24px;
+        margin-top: 0;
+        margin-bottom: 8px;
+    }
+    
+    .card-description {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    
+    .mission-img,
+    .vision-img {
+        margin-left: 150px;
+        margin-bottom: 10px;
+        margin-right: auto;
+        display: block;
+    }
+    
+    .values {
+        text-align: center;
+        padding: 15px;
+        font-size: 20px;
+        width: 340px;
+    }
+    
+    .title-values {
+        text-align: center;
+    }
+    
+    .end-description {
+        margin-left: 0;
+        margin-right: 0;
+        font-size: 16px;
+    }
+}
+
+/* Media query for medium screens (769px - 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .about-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-card {
+        width: 600px;
+    }
+    
+    .mission-img,
+    .vision-img {
+        margin-left: 450px;
+    }
+    
+    .values {
+        width: 600px;
+    }
+    
+    .end-description {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
