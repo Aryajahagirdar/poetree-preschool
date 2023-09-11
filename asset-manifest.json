@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e028fcef.css",
+    "main.js": "/static/js/main.56d0d97d.js",
+    "static/media/front_img.png": "/static/media/front_img.3777908080c8add98440.png",
+    "static/media/confidence_building.jpg": "/static/media/confidence_building.b83ecfc5eaa5c86eabac.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/logo_bg.png": "/static/media/logo_bg.7ae39f05fa7b4eca281d.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo_footer.png": "/static/media/logo_footer.5915237a78655b9342d2.png",
+    "static/media/nursery.jpg": "/static/media/nursery.30bc0f1a5031ca2ad229.jpg",
+    "static/media/tree1.png": "/static/media/tree1.4710208e205d743c8574.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/storytelling.jpg": "/static/media/storytelling.26ac47bfc8fd967cb695.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/settlers_program.jpg": "/static/media/settlers_program.e5b90bb409222c471db5.jpg",
+    "static/media/mission.png": "/static/media/mission.fa25d7dc2bdf0d6d5280.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/daycare.jpg": "/static/media/daycare.fc0ea4b2dbeba06ec76b.jpg",
+    "static/media/i3.jpg": "/static/media/i3.9a251563146f4920cd8b.jpg",
+    "static/media/sanskar_varg.jpg": "/static/media/sanskar_varg.e9defc57d97577b32b12.jpg",
+    "static/media/i2.jpg": "/static/media/i2.13922ceecfe387e16eee.jpg",
+    "static/media/fine_motor.jpg": "/static/media/fine_motor.bdb2ccee52aa6fbfdfcd.jpg",
+    "static/media/homework_support.jpg": "/static/media/homework_support.63646c723c7b82c20fc0.jpg",
+    "static/media/i1.jpg": "/static/media/i1.a02a65290df86273365c.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/vision.png": "/static/media/vision.add3fc2bac0eb99f5065.png",
+    "static/media/home_students.jpg": "/static/media/home_students.3449bcef96155c2a3a42.jpg",
+    "static/media/hourly_basis.jpg": "/static/media/hourly_basis.7ddd1ed6e4c18a0f1a23.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/index.html",
+    "main.e028fcef.css.map": "/static/css/main.e028fcef.css.map",
+    "main.56d0d97d.js.map": "/static/js/main.56d0d97d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e028fcef.css",
+    "static/js/main.56d0d97d.js"
+  ]
+}
